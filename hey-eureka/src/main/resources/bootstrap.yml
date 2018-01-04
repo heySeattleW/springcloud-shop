@@ -1,0 +1,8 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: config-client-dev
+  cloud:
+    config:
+      uri: http:127.0.0.1:7777

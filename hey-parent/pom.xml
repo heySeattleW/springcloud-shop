@@ -66,6 +66,10 @@
 		</dependency>
 	</dependencies>
 
+	<modules>
+		<module>../hey-feign</module>
+	</modules>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>

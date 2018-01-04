@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hey-config" />
         <module name="hey-eureka" />
+        <module name="hey-feign" />
         <module name="hey-parent" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hey-config" target="1.8" />
       <module name="hey-eureka" target="1.8" />
+      <module name="hey-feign" target="1.8" />
       <module name="hey-parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>

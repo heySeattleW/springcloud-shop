@@ -1,0 +1,8 @@
+server:
+  port: 5555
+spring:
+  application:
+    name: config-feign
+  cloud:
+    config:
+      uri: http://127.0.0.1:7777
