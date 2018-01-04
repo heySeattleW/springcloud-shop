@@ -10,6 +10,7 @@
         <module name="hey-eureka" />
         <module name="hey-feign" />
         <module name="hey-parent" />
+        <module name="service-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="hey-eureka" target="1.8" />
       <module name="hey-feign" target="1.8" />
       <module name="hey-parent" target="1.8" />
+      <module name="service-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

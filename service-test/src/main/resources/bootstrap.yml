@@ -1,8 +1,8 @@
 server:
-  port: 8761
+  port: 3333
 spring:
   application:
-    name: config-client-dev
+    name: service-test
   cloud:
     config:
       uri: http://127.0.0.1:7777
